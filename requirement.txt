@@ -1,0 +1,6 @@
+streamlit
+ollama
+streamlit-float
+audio-recorder-streamlit
+SpeechRecognition
+pyttsx3
